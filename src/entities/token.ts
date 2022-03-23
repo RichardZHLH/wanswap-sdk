@@ -82,7 +82,7 @@ export const WETH = {
   ),
   [ChainId.ROPSTEN]: new Token(
     ChainId.ROPSTEN,
-    '0x916283cc60fdaf05069796466af164876e35d21f',
+    '0xF758FE929Ef58ADb13d06Dda2429973182ED116E',
     18,
     'WWAN',
     'Wrapped WanCoin'
